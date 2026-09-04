@@ -7,7 +7,7 @@ about:
   head: fa2a78d
   archived: false
   latestVersion: rel/v5.6.3
-  collectedAt: 2026-09-04T19:54:36Z
+  collectedAt: 2026-09-04T20:49:27Z
 timeline:
   created: 2010-05-26
   lastCommit: 2026-08-27
@@ -89,6 +89,104 @@ total:
   openIssue: 894
   commit: 18553
 ---
+path: /home/runner/.x-repo/github.com/apache/jmeter
+collectedAt: 2026-09-04T20:49:34Z
+loc:
+  Java:
+    code: 148616
+    comments: 67311
+    blanks: 29918
+    files: 1395
+  Xml:
+    code: 38946
+    comments: 1576
+    blanks: 1792
+    files: 108
+  JavaScript:
+    code: 16676
+    comments: 4043
+    blanks: 4142
+    files: 36
+  Kotlin:
+    code: 14110
+    comments: 6008
+    blanks: 2423
+    files: 263
+  Svg:
+    code: 10218
+    comments: 11
+    blanks: 20
+    files: 14
+  Css:
+    code: 2821
+    comments: 168
+    blanks: 186
+    files: 13
+  Html:
+    code: 2391
+    comments: 280
+    blanks: 384
+    files: 29
+  XSL:
+    code: 1994
+    comments: 205
+    blanks: 180
+    files: 6
+  Json:
+    code: 1821
+    comments: 0
+    blanks: 0
+    files: 12
+  Less:
+    code: 1540
+    comments: 50
+    blanks: 96
+    files: 17
+  Sass:
+    code: 1278
+    comments: 39
+    blanks: 30
+    files: 14
+  Batch:
+    code: 635
+    comments: 6
+    blanks: 136
+    files: 15
+  Sh:
+    code: 198
+    comments: 355
+    blanks: 77
+    files: 12
+  Bitbake:
+    code: 58
+    comments: 0
+    blanks: 6
+    files: 2
+  Makefile:
+    code: 6
+    comments: 2
+    blanks: 4
+    files: 1
+  Groovy:
+    code: 1
+    comments: 22
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3012
+    blanks: 1206
+    files: 18
+  Text:
+    code: 0
+    comments: 376
+    blanks: 93
+    files: 17
+total:
+  code: 241343
+  comments: 83467
+  blanks: 40693
+  files: 1973
 ---
 date: "2026-08-24"
 repo:
