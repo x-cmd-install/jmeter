@@ -12,6 +12,28 @@ Apache JMeter open-source load testing tool for analyzing and measuring the perf
 x install jmeter
 ```
 
+## Code insight
+
+Total: **241,396** lines of code across **1816** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Java | 148,636 | 67,318 | 29,920 | 1395 |
+| Xml | 39,013 | 1,575 | 1,743 | 108 |
+| JavaScript | 16,676 | 4,043 | 4,142 | 36 |
+| Kotlin | 14,110 | 6,008 | 2,423 | 263 |
+| Svg | 10,218 | 11 | 20 | 14 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.4 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (4/10) — Found 11/27 approved changesets -- score normalized to 4
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/apache/jmeter>
@@ -36,30 +58,20 @@ x install jmeter
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 4 | 13 | 0 | 3 | 6 |
+| last60d | 2026-07-12 | 0 | 6 | 22 | 1 | 7 | 8 |
 | 90d | 2026-06-12 | 0 | 11 | 25 | 2 | 12 | 16 |
+| last180d | 2026-03-14 | 0 | 40 | 33 | 6 | 16 | 64 |
 | 360d | 2025-09-15 | 0 | 154 | 39 | 16 | 30 | 241 |
+| last720d | 2024-09-20 | 0 | 191 | 53 | 45 | 91 | 287 |
 
-## Code size
+## Distribution status
 
-Total: **241,396** lines of code across **1816** files in the top 5 languages.
+Reported by **26** distros on [repology.org](https://repology.org/project/jmeter). **13** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Java | 148,636 | 67,318 | 29,920 | 1395 |
-| Xml | 39,013 | 1,575 | 1,743 | 108 |
-| JavaScript | 16,676 | 4,043 | 4,142 | 36 |
-| Kotlin | 14,110 | 6,008 | 2,423 | 263 |
-| Svg | 10,218 | 11 | 20 | 14 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.4 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (4/10) — Found 11/27 approved changesets -- score normalized to 4
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Packaging** (-1/10) — packaging workflow not detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `5.6.3` | ✅ latest |
+| Nix unstable | `5.6.3` | ✅ latest |
 
 ## Improve this data
 
@@ -70,4 +82,4 @@ Install metadata for jmeter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:56:35Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:14:00Z._
