@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,529 · **Forks**: 2,289 · **Open issues**: 5,440 · **Contributors**: 93
+- **Stars**: 9,528 · **Forks**: 2,289 · **Open issues**: 5,440 · **Contributors**: 93
 
 ## Totals (cumulative)
 
@@ -82,4 +82,4 @@ Install metadata for jmeter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:14:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:32:44Z._
