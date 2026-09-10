@@ -1,0 +1,293 @@
+- repo: wikidata
+  srcname: Q616885
+  visiblename: Apache JMeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  summary: free performance testing software
+  licenses:
+    - Apache Software License 2.0
+- repo: nix_stable_25_05
+  srcname: jmeter
+  visiblename: jmeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  summary: 100% pure Java desktop application designed to load test functional behavior and measure performance
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: jmeter
+  visiblename: jmeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  summary: 100% pure Java desktop application designed to load test functional behavior and measure performance
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: jmeter
+  binname: jmeter
+  visiblename: jmeter
+  version: 5.6.3
+  origversion: 5.6.3-4
+  status: newest
+  summary: Java application designed to load test functional behavior and measure performance
+  maintainers:
+    - witko@aur
+    - stick@aur
+  licenses:
+    - Apache
+- repo: chocolatey
+  binname: jmeter
+  visiblename: Apache JMeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  summary: The Apache JMeter™ desktop application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
+- repo: homebrew
+  srcname: jmeter
+  visiblename: jmeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  summary: Load testing and performance measurement application
+- repo: macports
+  srcname: devel/jmeter
+  binname: jmeter
+  visiblename: jmeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  summary: Apache JMeter - Load testing tool
+  maintainers:
+    - judaew@macports
+    - judaew@github
+  licenses:
+    - Apache-2
+  categories:
+    - devel
+- repo: nix_stable_24_05
+  srcname: jmeter
+  visiblename: jmeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  summary: A 100% pure Java desktop application designed to load test functional behavior and measure performance
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: jmeter
+  visiblename: jmeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  summary: 100% pure Java desktop application designed to load test functional behavior and measure performance
+  maintainers:
+    - bryanasdev000@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: jmeter
+  visiblename: jmeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  summary: 100% pure Java desktop application designed to load test functional behavior and measure performance
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: jmeter
+  visiblename: jmeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  summary: 100% pure Java desktop application designed to load test functional behavior and measure performance
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - Apache-2.0
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+- repo: scoop
+  subrepo: extras
+  binname: jmeter
+  visiblename: jmeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  licenses:
+    - Apache-2.0
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "2.6"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "2.7"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "2.5"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: 2.5.1
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "2.4"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "2.8"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "2.9"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "2.11"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "2.12"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "2.13"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "3"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "3.1"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: "3.2"
+  origversion: null
+  status: legacy
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
+  vulnerable: true
