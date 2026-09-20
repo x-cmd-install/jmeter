@@ -4,7 +4,7 @@
 
 Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
 
-![jmeter](https://repo.x-cmd.io/jmeter.svg)
+[![x-cmd/install — jmeter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jmeter.svg)](https://x-cmd.com/install/jmeter)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,534 · **Forks**: 2,288 · **Open issues**: 5,440 · **Contributors**: 93
+- **Stars**: 9,537 · **Forks**: 2,290 · **Open issues**: 5,440 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 530 · **Open PRs**: 83 · **Closed issues**: 4547 · **Open issues**: 893 · **Commits**: 18556
+- **Releases**: 10 · **Merged PRs**: 530 · **Open PRs**: 84 · **Closed issues**: 4547 · **Open issues**: 893 · **Commits**: 18556
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 5 | 6 | 0 | 2 | 7 |
-| last60d | 2026-07-20 | 0 | 6 | 20 | 1 | 6 | 8 |
-| 90d | 2026-06-20 | 0 | 12 | 24 | 2 | 12 | 17 |
-| last180d | 2026-03-22 | 0 | 29 | 32 | 3 | 14 | 45 |
-| 360d | 2025-09-23 | 0 | 155 | 38 | 14 | 30 | 242 |
-| last720d | 2024-09-28 | 0 | 190 | 53 | 41 | 91 | 281 |
+| 30d | 2026-08-21 | 0 | 5 | 5 | 0 | 2 | 3 |
+| last60d | 2026-07-22 | 0 | 6 | 20 | 1 | 5 | 7 |
+| 90d | 2026-06-22 | 0 | 12 | 25 | 2 | 12 | 11 |
+| last180d | 2026-03-24 | 0 | 25 | 33 | 2 | 14 | 38 |
+| 360d | 2025-09-25 | 0 | 155 | 39 | 14 | 29 | 242 |
+| last720d | 2024-09-30 | 0 | 190 | 54 | 41 | 91 | 281 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jmeter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:30:43Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:44:55Z._
