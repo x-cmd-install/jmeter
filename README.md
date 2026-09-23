@@ -4,7 +4,7 @@
 
 Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
 
-[![x-cmd/install — jmeter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jmeter.svg)](https://x-cmd.com/install/jmeter)
+[![x-cmd/install — jmeter Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jmeter.svg)](https://x-cmd.com/install/jmeter)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,542 · **Forks**: 2,292 · **Open issues**: 5,441 · **Contributors**: 93
+- **Stars**: 9,543 · **Forks**: 2,293 · **Open issues**: 5,441 · **Contributors**: 93
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 530 · **Open PRs**: 86 · **Closed issues**: 4548 · **Open issues**: 893 · **Commits**: 18556
+- **Releases**: 10 · **Merged PRs**: 530 · **Open PRs**: 88 · **Closed issues**: 4548 · **Open issues**: 893 · **Commits**: 18556
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 5 | 7 | 0 | 3 | 3 |
-| last60d | 2026-07-24 | 0 | 6 | 20 | 1 | 5 | 7 |
-| 90d | 2026-06-24 | 0 | 12 | 27 | 2 | 12 | 11 |
-| last180d | 2026-03-26 | 0 | 22 | 35 | 3 | 13 | 38 |
-| 360d | 2025-09-27 | 0 | 155 | 40 | 15 | 29 | 242 |
-| last720d | 2024-10-02 | 0 | 190 | 56 | 42 | 91 | 281 |
+| 30d | 2026-08-24 | 0 | 5 | 9 | 0 | 3 | 3 |
+| last60d | 2026-07-25 | 0 | 6 | 22 | 1 | 5 | 7 |
+| 90d | 2026-06-25 | 0 | 9 | 29 | 2 | 11 | 11 |
+| last180d | 2026-03-27 | 0 | 22 | 36 | 3 | 13 | 38 |
+| 360d | 2025-09-28 | 0 | 155 | 42 | 15 | 29 | 242 |
+| last720d | 2024-10-03 | 0 | 190 | 58 | 41 | 91 | 281 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jmeter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:40:49Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:38:10Z._

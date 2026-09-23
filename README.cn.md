@@ -4,7 +4,7 @@
 
 Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services
 
-[![x-cmd/install — jmeter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/jmeter.svg?lang=zh)](https://x-cmd.com/install/jmeter)
+[![x-cmd/install — jmeter Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/jmeter.svg?lang=zh)](https://x-cmd.com/install/jmeter)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install jmeter
 
 ## 流行度
 
-- **Star**: 9,542 · **Fork**: 2,292 · **开放 issue**: 5,441 · **贡献者**: 93
+- **Star**: 9,543 · **Fork**: 2,293 · **开放 issue**: 5,441 · **贡献者**: 93
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 530 · **开放 PR**: 86 · **已关闭 issue**: 4548 · **开放 issue**: 893 · **提交数**: 18556
+- **发布数**: 10 · **已合并 PR**: 530 · **开放 PR**: 88 · **已关闭 issue**: 4548 · **开放 issue**: 893 · **提交数**: 18556
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 5 | 7 | 0 | 3 | 3 |
-| last60d | 2026-07-24 | 0 | 6 | 20 | 1 | 5 | 7 |
-| 90d | 2026-06-24 | 0 | 12 | 27 | 2 | 12 | 11 |
-| last180d | 2026-03-26 | 0 | 22 | 35 | 3 | 13 | 38 |
-| 360d | 2025-09-27 | 0 | 155 | 40 | 15 | 29 | 242 |
-| last720d | 2024-10-02 | 0 | 190 | 56 | 42 | 91 | 281 |
+| 30d | 2026-08-24 | 0 | 5 | 9 | 0 | 3 | 3 |
+| last60d | 2026-07-25 | 0 | 6 | 22 | 1 | 5 | 7 |
+| 90d | 2026-06-25 | 0 | 9 | 29 | 2 | 11 | 11 |
+| last180d | 2026-03-27 | 0 | 22 | 36 | 3 | 13 | 38 |
+| 360d | 2025-09-28 | 0 | 155 | 42 | 15 | 29 | 242 |
+| last720d | 2024-10-03 | 0 | 190 | 58 | 41 | 91 | 281 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ jmeter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:40:49Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:38:11Z._
