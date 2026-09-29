@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 2 | 8 | 0 | 3 | 3 |
-| last60d | 2026-07-30 | 0 | 5 | 21 | 0 | 4 | 7 |
-| 90d | 2026-06-30 | 0 | 9 | 32 | 2 | 11 | 11 |
-| last180d | 2026-04-01 | 0 | 21 | 39 | 3 | 13 | 36 |
-| 360d | 2025-10-03 | 0 | 155 | 45 | 15 | 28 | 234 |
-| last720d | 2024-10-08 | 0 | 190 | 60 | 41 | 91 | 278 |
+| 30d | 2026-08-30 | 0 | 2 | 8 | 0 | 3 | 3 |
+| last60d | 2026-07-31 | 0 | 5 | 21 | 0 | 4 | 7 |
+| 90d | 2026-07-01 | 0 | 9 | 32 | 2 | 11 | 11 |
+| last180d | 2026-04-02 | 0 | 21 | 39 | 3 | 13 | 36 |
+| 360d | 2025-10-04 | 0 | 155 | 45 | 15 | 28 | 234 |
+| last720d | 2024-10-09 | 0 | 190 | 60 | 40 | 91 | 278 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jmeter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T05:12:16Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T05:34:27Z._
