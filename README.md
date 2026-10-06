@@ -26,11 +26,11 @@ Total: **241,653** lines of code across **1816** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 11/27 approved changesets -- score normalized to 4
+- **Code-Review** (2/10) — Found 8/30 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,550 · **Forks**: 2,292 · **Open issues**: 5,442 · **Contributors**: 93
+- **Stars**: 9,552 · **Forks**: 2,293 · **Open issues**: 5,442 · **Contributors**: 93
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 12 | 11 | 0 | 1 | 44 |
-| last60d | 2026-08-06 | 0 | 17 | 18 | 0 | 4 | 50 |
-| 90d | 2026-07-07 | 0 | 22 | 27 | 1 | 12 | 52 |
-| last180d | 2026-04-08 | 0 | 34 | 33 | 3 | 14 | 79 |
-| 360d | 2025-10-10 | 0 | 139 | 38 | 15 | 29 | 248 |
-| last720d | 2024-10-15 | 0 | 204 | 54 | 40 | 88 | 326 |
+| 30d | 2026-09-06 | 0 | 11 | 11 | 0 | 1 | 44 |
+| last60d | 2026-08-07 | 0 | 17 | 18 | 0 | 4 | 50 |
+| 90d | 2026-07-08 | 0 | 21 | 26 | 1 | 11 | 52 |
+| last180d | 2026-04-09 | 0 | 34 | 33 | 3 | 14 | 79 |
+| 360d | 2025-10-11 | 0 | 133 | 38 | 15 | 29 | 248 |
+| last720d | 2024-10-16 | 0 | 204 | 54 | 40 | 88 | 326 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for jmeter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:25:20Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:08:21Z._
