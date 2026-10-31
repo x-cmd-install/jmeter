@@ -2,25 +2,25 @@ about:
   description: "Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services"
   license: Apache-2.0
   homepage: https://jmeter.apache.org/
-  head: 85f6139
+  head: f31fb25
   archived: false
   latestVersion: "rel/v5.6.3"
   latestRelease: "rel/v5.6.3"
   latestPrerelease: ""
-  collectedAt: 2026-10-30T05:33:42Z
+  collectedAt: 2026-10-31T05:20:38Z
 timeline:
   created: 2010-05-26
-  lastCommit: 2026-10-29
+  lastCommit: 2026-10-30
   lastVersion: 2024-01-09
   lastRelease: 2024-01-09
   lastPrerelease: 
 popularity:
-  star: 9579
+  star: 9582
   watcher: 311
   fork: 2299
   release: 10
   contributor: 94
-  pullRequest: 1380
+  pullRequest: 1381
   issue: 5442
 language:
   Java: 9471998
@@ -36,63 +36,63 @@ language:
 totalBytes: 10438232
 recent:
   last30d:
-    since: 2026-09-30
+    since: 2026-10-01
     release: 0
-    mergedPR: 13
-    openPR: 22
+    mergedPR: 5
+    openPR: 16
     closedIssue: 0
     openIssue: 1
-    commit: 5
+    commit: 11
   last60d:
-    since: 2026-08-31
+    since: 2026-09-01
     release: 0
-    mergedPR: 16
+    mergedPR: 17
     openPR: 27
     closedIssue: 0
-    openIssue: 4
-    commit: 51
+    openIssue: 2
+    commit: 57
   last90d:
-    since: 2026-08-01
+    since: 2026-08-02
     release: 0
-    mergedPR: 21
+    mergedPR: 22
     openPR: 34
     closedIssue: 0
     openIssue: 5
-    commit: 55
+    commit: 61
   last180d:
-    since: 2026-05-03
+    since: 2026-05-04
     release: 0
-    mergedPR: 39
+    mergedPR: 40
     openPR: 46
     closedIssue: 3
     openIssue: 14
-    commit: 84
+    commit: 90
   last360d:
-    since: 2025-11-04
+    since: 2025-11-05
     release: 0
     mergedPR: 118
     openPR: 52
     closedIssue: 14
     openIssue: 27
-    commit: 177
+    commit: 183
   last720d:
-    since: 2024-11-09
+    since: 2024-11-10
     release: 0
-    mergedPR: 207
+    mergedPR: 208
     openPR: 67
     closedIssue: 38
     openIssue: 80
-    commit: 328
+    commit: 331
 total:
   release: 10
-  mergedPR: 549
+  mergedPR: 550
   openPR: 100
   closedIssue: 4551
   openIssue: 891
-  commit: 18609
+  commit: 18612
 ---
 path: /home/runner/.x-repo/github.com/apache/jmeter
-collectedAt: 2026-10-30T05:33:57Z
+collectedAt: 2026-10-31T05:20:51Z
 loc:
   Java:
     code: 153538
