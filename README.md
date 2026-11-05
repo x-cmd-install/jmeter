@@ -31,7 +31,7 @@ Overall score: **5.4 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (3/10) — Found 11/30 approved changesets -- score normalized to 3
+- **Code-Review** (3/10) — Found 10/28 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `rel/v5.6.3` (2024-01-09)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 9,589 · **Forks**: 2,302 · **Open issues**: 5,442 · **Contributors**: 94
+- **Stars**: 9,592 · **Forks**: 2,303 · **Open issues**: 5,442 · **Contributors**: 95
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 550 · **Open PRs**: 101 · **Closed issues**: 4551 · **Open issues**: 891 · **Commits**: 18612
+- **Releases**: 10 · **Merged PRs**: 551 · **Open PRs**: 102 · **Closed issues**: 4551 · **Open issues**: 891 · **Commits**: 18613
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 5 | 17 | 0 | 1 | 11 |
-| last60d | 2026-09-05 | 0 | 17 | 28 | 0 | 2 | 55 |
-| 90d | 2026-08-06 | 0 | 22 | 35 | 0 | 5 | 61 |
-| last180d | 2026-05-08 | 0 | 40 | 46 | 3 | 14 | 90 |
-| 360d | 2025-11-09 | 0 | 106 | 53 | 14 | 25 | 165 |
-| last720d | 2024-11-14 | 0 | 208 | 68 | 38 | 79 | 331 |
+| 30d | 2026-10-06 | 0 | 6 | 18 | 0 | 1 | 12 |
+| last60d | 2026-09-06 | 0 | 17 | 29 | 0 | 2 | 56 |
+| 90d | 2026-08-07 | 0 | 23 | 36 | 0 | 5 | 62 |
+| last180d | 2026-05-09 | 0 | 41 | 47 | 3 | 14 | 91 |
+| 360d | 2025-11-10 | 0 | 103 | 54 | 14 | 25 | 166 |
+| last720d | 2024-11-15 | 0 | 209 | 69 | 38 | 79 | 332 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for jmeter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:01:15Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:27:34Z._
