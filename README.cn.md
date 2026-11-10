@@ -26,12 +26,12 @@ x install jmeter
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.4 / 10**
+总评分: **5.3 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (3/10) — Found 10/28 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 8/28 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -47,22 +47,22 @@ x install jmeter
 
 ## 流行度
 
-- **Star**: 9,599 · **Fork**: 2,303 · **开放 issue**: 5,442 · **贡献者**: 94
+- **Star**: 9,600 · **Fork**: 2,304 · **开放 issue**: 5,443 · **贡献者**: 94
 
 ## 累计统计
 
-- **发布数**: 10 · **已合并 PR**: 551 · **开放 PR**: 101 · **已关闭 issue**: 4551 · **开放 issue**: 891 · **提交数**: 18614
+- **发布数**: 10 · **已合并 PR**: 551 · **开放 PR**: 100 · **已关闭 issue**: 4551 · **开放 issue**: 892 · **提交数**: 18614
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 6 | 17 | 0 | 1 | 14 |
-| last60d | 2026-09-09 | 0 | 17 | 28 | 0 | 2 | 57 |
-| 90d | 2026-08-10 | 0 | 23 | 35 | 0 | 5 | 64 |
-| last180d | 2026-05-12 | 0 | 41 | 46 | 3 | 14 | 92 |
-| 360d | 2025-11-13 | 0 | 102 | 53 | 14 | 25 | 157 |
-| last720d | 2024-11-18 | 0 | 209 | 68 | 38 | 79 | 333 |
+| 30d | 2026-10-11 | 0 | 6 | 16 | 0 | 2 | 14 |
+| last60d | 2026-09-11 | 0 | 17 | 27 | 0 | 3 | 57 |
+| 90d | 2026-08-12 | 0 | 23 | 34 | 0 | 6 | 64 |
+| last180d | 2026-05-14 | 0 | 41 | 45 | 3 | 15 | 92 |
+| 360d | 2025-11-15 | 0 | 102 | 52 | 14 | 26 | 157 |
+| last720d | 2024-11-20 | 0 | 209 | 67 | 38 | 80 | 333 |
 
 ## 发行版状态
 
@@ -82,4 +82,4 @@ jmeter 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T05:49:54Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T07:04:08Z._

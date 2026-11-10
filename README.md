@@ -26,12 +26,12 @@ Total: **246,776** lines of code across **1839** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.4 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (3/10) — Found 10/28 approved changesets -- score normalized to 3
+- **Code-Review** (2/10) — Found 8/28 approved changesets -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,599 · **Forks**: 2,303 · **Open issues**: 5,442 · **Contributors**: 94
+- **Stars**: 9,600 · **Forks**: 2,304 · **Open issues**: 5,443 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 551 · **Open PRs**: 101 · **Closed issues**: 4551 · **Open issues**: 891 · **Commits**: 18614
+- **Releases**: 10 · **Merged PRs**: 551 · **Open PRs**: 100 · **Closed issues**: 4551 · **Open issues**: 892 · **Commits**: 18614
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 6 | 17 | 0 | 1 | 14 |
-| last60d | 2026-09-09 | 0 | 17 | 28 | 0 | 2 | 57 |
-| 90d | 2026-08-10 | 0 | 23 | 35 | 0 | 5 | 64 |
-| last180d | 2026-05-12 | 0 | 41 | 46 | 3 | 14 | 92 |
-| 360d | 2025-11-13 | 0 | 102 | 53 | 14 | 25 | 157 |
-| last720d | 2024-11-18 | 0 | 209 | 68 | 38 | 79 | 333 |
+| 30d | 2026-10-11 | 0 | 6 | 16 | 0 | 2 | 14 |
+| last60d | 2026-09-11 | 0 | 17 | 27 | 0 | 3 | 57 |
+| 90d | 2026-08-12 | 0 | 23 | 34 | 0 | 6 | 64 |
+| last180d | 2026-05-14 | 0 | 41 | 45 | 3 | 15 | 92 |
+| 360d | 2025-11-15 | 0 | 102 | 52 | 14 | 26 | 157 |
+| last720d | 2024-11-20 | 0 | 209 | 67 | 38 | 80 | 333 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for jmeter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:49:53Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:04:07Z._
