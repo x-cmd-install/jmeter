@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,602 · **Forks**: 2,305 · **Open issues**: 5,443 · **Contributors**: 94
+- **Stars**: 9,603 · **Forks**: 2,305 · **Open issues**: 5,443 · **Contributors**: 94
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 6 | 18 | 0 | 2 | 14 |
-| last60d | 2026-09-14 | 0 | 16 | 29 | 0 | 3 | 57 |
-| 90d | 2026-08-15 | 0 | 22 | 36 | 0 | 6 | 64 |
-| last180d | 2026-05-17 | 0 | 40 | 47 | 3 | 15 | 92 |
-| 360d | 2025-11-18 | 0 | 93 | 53 | 14 | 25 | 157 |
-| last720d | 2024-11-23 | 0 | 209 | 69 | 38 | 79 | 333 |
+| 30d | 2026-10-15 | 0 | 6 | 18 | 0 | 2 | 14 |
+| last60d | 2026-09-15 | 0 | 16 | 29 | 0 | 3 | 57 |
+| 90d | 2026-08-16 | 0 | 22 | 36 | 0 | 6 | 64 |
+| last180d | 2026-05-18 | 0 | 40 | 47 | 3 | 15 | 92 |
+| 360d | 2025-11-19 | 0 | 93 | 53 | 13 | 25 | 157 |
+| last720d | 2024-11-24 | 0 | 209 | 69 | 38 | 79 | 333 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for jmeter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:25:08Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:08:26Z._
