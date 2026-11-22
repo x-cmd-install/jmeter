@@ -1,3 +1,14 @@
+- repo: npackd_stable
+  srcname: org.apache.jakarta.JMeter
+  binname: org.apache.jakarta.JMeter
+  visiblename: JMeter
+  version: 5.6.3
+  origversion: null
+  status: newest
+  licenses:
+    - Apache License 2.0
+  categories:
+    - Development
 - repo: aur
   srcname: jmeter
   binname: jmeter
@@ -106,17 +117,6 @@
     - fallback-mnt-nix@repology
   licenses:
     - Apache-2.0
-- repo: npackd_stable
-  srcname: org.apache.jakarta.JMeter
-  binname: org.apache.jakarta.JMeter
-  visiblename: JMeter
-  version: 5.6.3
-  origversion: null
-  status: newest
-  licenses:
-    - Apache License 2.0
-  categories:
-    - Development
 - repo: scoop
   subrepo: extras
   binname: jmeter
@@ -134,7 +134,7 @@
   status: newest
   summary: free performance testing software
   licenses:
-    - Apache Software License 2.0
+    - Apache License 2.0
 - repo: npackd_stable
   srcname: org.apache.jakarta.JMeter
   binname: org.apache.jakarta.JMeter
