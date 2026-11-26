@@ -14,14 +14,14 @@ x install jmeter
 
 ## Code insight
 
-Total: **246,847** lines of code across **1840** files in the top 5 languages.
+Total: **246,871** lines of code across **1840** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Java | 153,606 | 68,733 | 30,655 | 1418 |
 | Xml | 39,441 | 1,575 | 1,743 | 108 |
 | JavaScript | 16,676 | 4,043 | 4,142 | 36 |
-| Kotlin | 14,156 | 6,031 | 2,428 | 264 |
+| Kotlin | 14,180 | 6,031 | 2,431 | 264 |
 | Svg | 10,218 | 11 | 20 | 14 |
 
 ## OpenSSF Scorecard
@@ -43,35 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `rel/v5.6.3` (2024-01-09)
-- **Last commit**: 2026-11-21
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 9,613 · **Forks**: 2,309 · **Open issues**: 5,443 · **Contributors**: 94
+- **Stars**: 9,616 · **Forks**: 2,309 · **Open issues**: 5,443 · **Contributors**: 94
 
 ## Totals (cumulative)
 
-- **Releases**: 10 · **Merged PRs**: 552 · **Open PRs**: 108 · **Closed issues**: 4553 · **Open issues**: 890 · **Commits**: 18615
+- **Releases**: 10 · **Merged PRs**: 555 · **Open PRs**: 107 · **Closed issues**: 4553 · **Open issues**: 890 · **Commits**: 18616
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 3 | 9 | 0 | 1 | 10 |
-| last60d | 2026-09-26 | 0 | 16 | 30 | 0 | 2 | 58 |
-| 90d | 2026-08-27 | 0 | 20 | 39 | 0 | 5 | 61 |
-| last180d | 2026-05-29 | 0 | 37 | 51 | 4 | 13 | 87 |
-| 360d | 2025-11-30 | 0 | 87 | 59 | 13 | 24 | 143 |
-| last720d | 2024-12-05 | 0 | 208 | 73 | 40 | 76 | 330 |
-
-## Distribution status
-
-Reported by **26** distros on [repology.org](https://repology.org/project/jmeter). **13** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `5.6.3` | ✅ latest |
-| Nix unstable | `5.6.3` | ✅ latest |
+| 30d | 2026-10-27 | 0 | 4 | 10 | 0 | 1 | 12 |
+| last60d | 2026-09-27 | 0 | 18 | 30 | 0 | 2 | 60 |
+| 90d | 2026-08-28 | 0 | 22 | 39 | 0 | 5 | 63 |
+| last180d | 2026-05-30 | 0 | 39 | 51 | 4 | 13 | 89 |
+| 360d | 2025-12-01 | 0 | 86 | 58 | 13 | 23 | 145 |
+| last720d | 2024-12-06 | 0 | 211 | 72 | 40 | 76 | 331 |
 
 ## Improve this data
 
@@ -82,4 +73,4 @@ Install metadata for jmeter lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:15:24Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:02:53Z._
